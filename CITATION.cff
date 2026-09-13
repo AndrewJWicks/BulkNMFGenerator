@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: Wicks
     given-names: Andrew
+    orcid: "https://orcid.org/0009-0007-5977-0877"
 version: 1.0.0
 license: GPL-3.0-or-later
 repository-code: "https://github.com/AndrewJWicks/BulkNMFGenerator"
